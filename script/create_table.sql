@@ -38,11 +38,11 @@ VALUES
 (7, "Rest Area KM 389", "Jl. Tol Semarang-Batang",200),
 (8, "Rest Area KM 391", "Jl. Tol Semarang-Batang",200);
 
-INSERT INTO Images(rest_area_id,IMAGE) VALUES(1,LOAD_FILE('C:\stress\JS\capstone\restArea_db\images_assets\RestAreaKM19-Tol Jakarta-Cikampek.jpg'));
-INSERT INTO Images(rest_area_id,IMAGE) VALUES(2,LOAD_FILE('C:\stress\JS\capstone\restArea_db\images_assets\RestAreaKM42-Tol Jakarta-Cikampek.jpg'));
-INSERT INTO Images(rest_area_id,IMAGE) VALUES(3,LOAD_FILE('C:\stress\JS\capstone\restArea_db\images_assets\RestAreaKM52-Tol Jakarta-Cikampek.jpg'));
-INSERT INTO Images(rest_area_id,IMAGE) VALUES(4,LOAD_FILE('C:\stress\JS\capstone\restArea_db\images_assets\RestAreaKM57-Tol Jakarta-Cikampek.jpg'));
-INSERT INTO Images(rest_area_id,IMAGE) VALUES(5,LOAD_FILE('C:\stress\JS\capstone\restArea_db\images_assets\RestAreaKM71-Tol Jakarta-Cikampek.jpg'));
-INSERT INTO Images(rest_area_id,IMAGE) VALUES(6,LOAD_FILE('C:\stress\JS\capstone\restArea_db\images_assets\RestAreaKM379-Tol Batang-Semarang.jpg'));
-INSERT INTO Images(rest_area_id,IMAGE) VALUES(7,LOAD_FILE('C:\stress\JS\capstone\restArea_db\images_assets\RestAreaKM389-Tol Batang-Semarang.jpg'));
-INSERT INTO Images(rest_area_id,IMAGE) VALUES(8,LOAD_FILE('C:\stress\JS\capstone\restArea_db\images_assets\RestAreaKM391-Tol Batang-Semarang.jpg'));
+INSERT INTO Images(rest_area_id,IMAGE) VALUES(1,LOAD_FILE('...\images_assets\RestAreaKM19-Tol Jakarta-Cikampek.jpg'));
+INSERT INTO Images(rest_area_id,IMAGE) VALUES(2,LOAD_FILE('...\images_assets\RestAreaKM42-Tol Jakarta-Cikampek.jpg'));
+INSERT INTO Images(rest_area_id,IMAGE) VALUES(3,LOAD_FILE('...\images_assets\RestAreaKM52-Tol Jakarta-Cikampek.jpg'));
+INSERT INTO Images(rest_area_id,IMAGE) VALUES(4,LOAD_FILE('...\images_assets\RestAreaKM57-Tol Jakarta-Cikampek.jpg'));
+INSERT INTO Images(rest_area_id,IMAGE) VALUES(5,LOAD_FILE('...\images_assets\RestAreaKM71-Tol Jakarta-Cikampek.jpg'));
+INSERT INTO Images(rest_area_id,IMAGE) VALUES(6,LOAD_FILE('...\images_assets\RestAreaKM379-Tol Batang-Semarang.jpg'));
+INSERT INTO Images(rest_area_id,IMAGE) VALUES(7,LOAD_FILE('...\images_assets\RestAreaKM389-Tol Batang-Semarang.jpg'));
+INSERT INTO Images(rest_area_id,IMAGE) VALUES(8,LOAD_FILE('...\images_assets\RestAreaKM391-Tol Batang-Semarang.jpg'));
